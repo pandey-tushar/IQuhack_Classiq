@@ -375,7 +375,7 @@
           "function": "repeat",
           "positional_args": [
             {
-              "expr": "4"
+              "expr": "len(a)"
             },
             {
               "rename_params": {},
@@ -495,13 +495,13 @@
           "function": "allocate_num",
           "positional_args": [
             {
-              "expr": "5"
+              "expr": "6"
             },
             {
               "expr": "False"
             },
             {
-              "expr": "5"
+              "expr": "6"
             },
             {
               "name": "tanh_x"
@@ -549,7 +549,7 @@
               "expr": "[0.984375, 0.875, 0.6875, 0.5]"
             },
             {
-              "expr": "[0, 0.03125, 0.125, 0.25]"
+              "expr": "[0, 0.03125, 0.125, 0.265625]"
             },
             {
               "name": "x"
