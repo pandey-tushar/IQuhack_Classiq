@@ -8,5 +8,5 @@ We divide the interval into 4 equal sub-intervals and approximate the function t
 
 For a precision of 20 for |x>, the same algorithm can work with 100 qubits. 
 We won the first prize!
-![image](https://github.com/pandey-tushar/IQuhack_Classiq/assets/56597687/67e3cccb-07dc-4b70-916e-52d25fbd00ff)
+![image](https://github.com/pandey-tushar/IQuhack_Classiq/assets/56597687/768cc688-815d-4365-99e0-d980e2f93d06)
 
